@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Go to settings then type file association and change the value from css to tailwindcss */
